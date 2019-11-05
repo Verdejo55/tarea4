@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<rutas xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+ xsi:noNameSpaceSchemaLocation="rutas.xsd">
+	<ruta id="1">
+		<nombre>
+			Ruta por Oviedo
+		</nombre>
+		<tipo>
+			Paisajista
+		</tipo>
+		<transporte>
+			A pie
+		</transporte>
+		<fechaInicio>
+			15/10/2017
+		</fechaInicio>
+		<horaInicio>
+			16:00
+		</horaInicio>
+		<tiempoDuracion>
+			2 horas
+		</tiempoDuracion>
+		<agenciaOrganizadora>
+			Sin agencia
+		</agenciaOrganizadora>
+		<descripcionRuta>
+			Ruta sencilla que recorre los monumentos mas importantes de la ciudad
+		</descripcionRuta>
+		<personasAdecuadas>
+			Todas las edades
+		</personasAdecuadas>
+		<lugarInicio>
+			Oviedo
+		</lugarInicio>
+		<direccionInicio>
+			Calle Foncalada
+		</direccionInicio>
+		<coordenadasInicio>
+			43.364308|-5.847394|242
+		</coordenadasInicio>
+		<referencias>
+			<referencia>
+				https://es.wikipedia.org/wiki/Foncalada
+			</referencia>
+			<referencia>
+				http://prerromanicoasturiano.es/
+			</referencia>
+			<referencia>
+				http://iglesiadeasturias.org
+			</referencia>
+		</referencias>
+		<recomendacion>
+			7
+		</recomendacion>
+		<hitos>
+			<hito unidad="metro">
+				<nombreHito>
+					Catedral de Oviedo
+				</nombreHito>
+				<descripcion>
+					Catedral de estilo gotico
+				</descripcion>
+				<coordenadas>
+					43.362578 | -5.843330|242
+				</coordenadas>
+				<distancia>
+					550
+				</distancia>
+				<fotografiaHito>
+					catedral.jpg
+				</fotografiaHito>
+				<videoHito>
+					video1.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Museo Arqueologico de Asturias
+				</nombreHito>
+				<descripcion>
+					Museo arqueológico de Asturias que se encuentra en el antiguo claustro de un monasterio románico.
+				</descripcion>
+				<coordenadas>
+					43.362583 | -5.843081|242
+				</coordenadas>
+				<distancia>
+					260
+				</distancia>
+				<fotografiaHito>
+					museo.jpg
+				</fotografiaHito>
+				<videoHito>
+					video2.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Iglesia de Santa MAria de la Corte
+				</nombreHito>
+				<descripcion>
+					Iglesia catolica
+				</descripcion>
+				<coordenadas>
+					43.363159 | -5.842344 |242
+				</coordenadas>
+				<distancia>
+					48
+				</distancia>
+				<fotografiaHito>
+					iglesia.jpg
+				</fotografiaHito>
+				<videoHito>
+					video3.mpeg
+				</videoHito>
+			</hito>
+		</hitos>
+	</ruta>
+
+    <ruta id="2">
+		<nombre>
+			Ruta por Gijon
+		</nombre>
+		<tipo>
+			Paisajista
+		</tipo>
+		<transporte>
+			A pie
+		</transporte>
+		<fechaInicio>
+			16/10/2017
+		</fechaInicio>
+		<horaInicio>
+			17:00
+		</horaInicio>
+		<tiempoDuracion>
+			1 horas
+		</tiempoDuracion>
+		<agenciaOrganizadora>
+			Sin agencia
+		</agenciaOrganizadora>
+		<descripcionRuta>
+			Ruta sencilla que recorre los monumentos mas importantes de la ciudad
+		</descripcionRuta>
+		<personasAdecuadas>
+			Todas las edades
+		</personasAdecuadas>
+		<lugarInicio>
+			Gijon
+		</lugarInicio>
+		<direccionInicio>
+			Calle Begoña
+		</direccionInicio>
+		<coordenadasInicio>
+			43.540985|-5.662379|25
+		</coordenadasInicio>
+		<referencias>
+			<referencia>
+				https://es.wikipedia.org/wiki/Paseo_de_Begoña
+			</referencia>
+			<referencia>
+				https://es.wikipedia.org/wiki/Gijon
+			</referencia>
+			<referencia>
+				https://www.asturias.es/
+			</referencia>
+		</referencias>
+		<recomendacion>
+			8
+		</recomendacion>
+		<hitos>
+			<hito unidad="metro">
+				<nombreHito>
+					Plaza Parchis
+				</nombreHito>
+				<descripcion>
+					Plaza historica de la ciudad de Gijon, con forma del juego de mesa, Parchis
+				</descripcion>
+				<coordenadas>
+					43.5400564|-5.6641339|25
+				</coordenadas>
+				<distancia>
+					80
+				</distancia>
+				<fotografiaHito>
+					plazaParchis.jpg
+				</fotografiaHito>
+				<videoHito>
+					videoParchis.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Casa Berenguer
+				</nombreHito>
+				<descripcion>
+					Edificio proyectado por el Sr. Berenguer delineante habitual del arquitecto Gaudi y por lo tanto estilo modenista catalan cuyo aspecto se da un aire a la casa de las Punxes en la Diagonal de Barcelona
+				</descripcion>
+				<coordenadas>
+				 43.541656 | -5.661774| 25 
+				</coordenadas>
+				<distancia>
+					57
+				</distancia>
+				<fotografiaHito>
+					casaBerenguer.jpg
+				</fotografiaHito>
+				<videoHito>
+					videoBerenguer.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					La Escalerona
+				</nombreHito>
+				<descripcion>
+					Escalera mas conocida de la playa San Lorenzo. Tiene un termometro gigante
+				</descripcion>
+				<coordenadas>
+					43.542276 | -5.659248|0
+				</coordenadas>
+				<distancia>
+					270
+				</distancia>
+				<fotografiaHito>
+					escalerona.jpg
+				</fotografiaHito>
+				<videoHito>
+					videoEscalerona.mpeg
+				</videoHito>
+			</hito>
+		</hitos>
+	</ruta>
+	<ruta id="3">
+		<nombre>
+			Ruta en bicicleta por Gijon
+		</nombre>
+		<tipo>
+			 Deportiva
+		</tipo>
+		<transporte>
+			En bicicleta
+		</transporte>
+		<fechaInicio>
+			17/10/2017
+		</fechaInicio>
+		<horaInicio>
+			18:00
+		</horaInicio>
+		<tiempoDuracion>
+			1 hora
+		</tiempoDuracion>
+		<agenciaOrganizadora>
+			Sin agencia
+		</agenciaOrganizadora>
+		<descripcionRuta>
+			Ruta sencilla por la costa 
+		</descripcionRuta>
+		<personasAdecuadas>
+			Mayores de 12 años
+		</personasAdecuadas>
+		<lugarInicio>
+			Gijon
+		</lugarInicio>
+		<direccionInicio>
+			Calle Marques de Urquijo
+		</direccionInicio>
+		<coordenadasInicio>
+			43.540223 |-5.644694|25
+		</coordenadasInicio>
+		<referencias>
+			<referencia>
+				https://www.tripadvisor.es/Attractions-g187451-Activities-c47-Gijon_Asturias.html
+			</referencia>
+			<referencia>
+				https://es.wikipedia.org/wiki/Gijon
+			</referencia>
+			<referencia>
+				https://www.asturias.es/
+			</referencia>
+		</referencias>
+		<recomendacion>
+			9
+		</recomendacion>
+		<hitos>
+			<hito unidad="metro">
+				<nombreHito>
+					Monumento a la Madre del Emigrante
+				</nombreHito>
+				<descripcion>
+					 Monumento dedicado a todas las madres que se tenían que quedar en Asturias, mientras veían a sus hijos marcharse a ganarse la vida en otro país.
+				</descripcion>
+				<coordenadas>
+					43.548186 | -5.640972|0
+				</coordenadas>
+				<distancia>
+					1200
+				</distancia>
+				<fotografiaHito>
+					madreDelEmigrante.jpg
+				</fotografiaHito>
+				<videoHito>
+					madreDelEmigrante.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Torre de enfilamiento marítimo
+				</nombreHito>
+				<descripcion>
+				Las ayudas a la navegación marítima incluyen sistemas visuales, acústicos o radioeléctricos destinados a posicionar las embarcaciones o los peligros cercanos a sus travesías, lo que permite establecer las rutas adecuadas y evitar en lo posible accidentes como encallamientos o naufragios. 
+				</descripcion>
+				<coordenadas>
+				 43.551491 |-5.635796|0 
+				</coordenadas>
+				<distancia>
+					1000
+				</distancia>
+				<fotografiaHito>
+					torreDeEnfilamientoMaritimo.jpg
+				</fotografiaHito>
+				<videoHito>
+					torreDeEnfilamientoMaritimo.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					PLaya de Serín
+				</nombreHito>
+				<descripcion>
+					Playa muy bonita y familiar para relajar las piernas.
+				</descripcion>
+				<coordenadas>
+					43.549299 | -5.609236|0
+				</coordenadas>
+				<distancia>
+					3300
+				</distancia>
+				<fotografiaHito>
+					playaSerin.jpg
+				</fotografiaHito>
+				<videoHito>
+					playaSerin.mpeg
+				</videoHito>
+			</hito>
+		</hitos>
+	</ruta>
+	<ruta id="4">
+		<nombre>
+			Ruta por restaurantes italianos de Gijon
+		</nombre>
+		<tipo>
+			 Gastronomica
+		</tipo>
+		<transporte>
+			A pie
+		</transporte>
+		<fechaInicio>
+			18/10/2017
+		</fechaInicio>
+		<horaInicio>
+			11:00
+		</horaInicio>
+		<tiempoDuracion>
+			3 horas
+		</tiempoDuracion>
+		<agenciaOrganizadora>
+			Sin agencia
+		</agenciaOrganizadora>
+		<descripcionRuta>
+			Ruta conociendo los mejores restaurantes italianos de Gijon
+		</descripcionRuta>
+		<personasAdecuadas>
+			Todas las edades
+		</personasAdecuadas>
+		<lugarInicio>
+			Gijon
+		</lugarInicio>
+		<direccionInicio>
+			Calle del Carmen
+		</direccionInicio>
+		<coordenadasInicio>
+			43.540223 |-5.644694|25
+		</coordenadasInicio>
+		<referencias>
+			<referencia>
+				https://www.tripadvisor.es/Restaurants-g187451-c26-Gijon_Asturias.html
+			</referencia>
+			<referencia>
+				https://gastroranking.es/restaurantes/italiana/asturias/gijon/
+			</referencia>
+			<referencia>
+				https://www.eltenedor.es/restaurante+italiano+gijon
+			</referencia>
+		</referencias>
+		<recomendacion>
+			8
+		</recomendacion>
+		<hitos>
+			<hito unidad="metro">
+				<nombreHito>
+					D'aldo
+				</nombreHito>
+				<descripcion>
+				Restaurante italiano, no muy barato pero todo riquisimo
+				</descripcion>
+				<coordenadas>
+					43.540223 |-5.644694|25
+				</coordenadas>
+				<distancia>
+					20
+				</distancia>
+				<fotografiaHito>
+					daldo.jpg
+				</fotografiaHito>
+				<videoHito>
+					daldo.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Pizzeria La Competencia
+				</nombreHito>
+				<descripcion>
+				Sabores del mediterráneo, e ingredientes auténticamente italianos, para que tu única preocupación sea qué plato quieres probar.
+				</descripcion>
+				<coordenadas>
+				 43.542762 |-5.666172|0
+				</coordenadas>
+				<distancia>
+					190
+				</distancia>
+				<fotografiaHito>
+					competencia.jpg
+				</fotografiaHito>
+				<videoHito>
+					competencia.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Restaurante La Scaletta 5
+				</nombreHito>
+				<descripcion>
+					Respetuosos con nuestra tradición culinaria en La Pasta Nostra apostamos por productos de calidad y elaborados por nosotros mismos. Nuestra pasta sigue siendo casera, y nuestras salsas, nuestra pizza, nuestros postres y nuestros panes. Y ahora, hasta nuestra cerveza es artesana.
+				</descripcion>
+				<coordenadas>
+					43.541709 | -5.658017|0
+				</coordenadas>
+				<distancia>
+					800
+				</distancia>
+				<fotografiaHito>
+					scaletta5.jpg
+				</fotografiaHito>
+				<videoHito>
+					scaletta5.mpeg
+				</videoHito>
+			</hito>
+		</hitos>
+	</ruta>
+	<ruta id="5">
+		<nombre>
+			Ruta por bares de copas
+		</nombre>
+		<tipo>
+			 Diversion
+		</tipo>
+		<transporte>
+			A pie
+		</transporte>
+		<fechaInicio>
+			19/10/2017
+		</fechaInicio>
+		<horaInicio>
+			23:00
+		</horaInicio>
+		<tiempoDuracion>
+			3 horas
+		</tiempoDuracion>
+		<agenciaOrganizadora>
+			Fiesta Gijon
+		</agenciaOrganizadora>
+		<descripcionRuta>
+			Ruta conociendo los mejores bares de copas 
+		</descripcionRuta>
+		<personasAdecuadas>
+			Mayores de 18 años
+		</personasAdecuadas>
+		<lugarInicio>
+			Gijon
+		</lugarInicio>
+		<direccionInicio>
+			Calle Marques de San Esteban
+		</direccionInicio>
+		<coordenadasInicio>
+			43.540223 |-5.644694|25
+		</coordenadasInicio>
+		<referencias>
+			<referencia>
+				https://www.tripadvisor.es/Restaurants-g187451-c26-Gijon_Asturias.html
+			</referencia>
+			<referencia>
+				https://gastroranking.es/restaurantes/italiana/asturias/gijon/
+			</referencia>
+			<referencia>
+				https://www.eltenedor.es/restaurante+italiano+gijon
+			</referencia>
+		</referencias>
+		<recomendacion>
+			8
+		</recomendacion>
+		<hitos>
+			<hito unidad="metro">
+				<nombreHito>
+					El Templo
+				</nombreHito>
+				<descripcion>
+				Si lo que te gusta es beber mucho por poco precio y dentro de un local
+				</descripcion>
+				<coordenadas>
+					43.541806 | -5.668184| 0
+				</coordenadas>
+				<distancia>
+					20
+				</distancia>
+				<fotografiaHito>
+					elTemplo.jpg
+				</fotografiaHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Picaro
+				</nombreHito>
+				<descripcion>
+				Se trata de un local con una distribución alargada. La música muy actual y modernita
+				</descripcion>
+				<coordenadas>
+				43.542698 | -5.666239|0
+				</coordenadas>
+				<distancia>
+					150
+				</distancia>
+				<fotografiaHito>
+					picaro.jpg
+				</fotografiaHito>
+				<videoHito>
+					picaro.mpeg
+				</videoHito>
+			</hito>
+			<hito unidad="metro">
+				<nombreHito>
+					Bar Saurom
+				</nombreHito>
+				<descripcion>
+					Un bar con gran musica y mejores calderos y jarras.	
+				</descripcion>
+				<coordenadas>
+					43.54284 | -5.666094|0
+				</coordenadas>
+				<distancia>
+					62
+				</distancia>
+				<fotografiaHito>
+					saurom.jpg
+				</fotografiaHito>
+				<videoHito>
+					saurom.mpeg
+				</videoHito>
+			</hito>
+		</hitos>
+	</ruta>
+</rutas>
